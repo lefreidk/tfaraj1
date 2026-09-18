@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'data/content_data.dart';
-import 'models/content_item.dart';
 import 'screens/home_screen.dart';
 import 'services/firebase_service.dart';
 import 'services/local_store.dart';
